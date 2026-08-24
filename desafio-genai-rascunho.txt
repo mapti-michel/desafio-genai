@@ -1,0 +1,49 @@
+Quero que a IA analise comentários de clientes sobre a facilidade de uso da transferência do pix no aplicativo digital de um banco para identificar reclamações, elogios e melhorias.
+
+O resultado será usado por uma equipe de experiência de clientes para apoiar a decisão de melhorias no aplicativo.
+
+A entrega deve conter um resumo, tabelas com seus principais temas, comentários e sugestão executiva.
+
+O resultado será considerado bom se for claro, organizado, baseado nos comentários fornecidos e útil para priorizar ações.
+
+
+
+Contexto: Estou trabalhando com feedbacks de clientes bancários relacionados a facilidade do uso de transferência do pix no aplicativo bancário.
+
+Dados disponíveis: A base contém data do comentário, canal do atendimento, texto do feedback, produto e nota de satisfação do cliente.
+
+Critérios de análise: A IA deve classificar os feedbacks por sentimento, urgência, canal, produto ou outro critério.
+
+Cuidados e restrições:
+
+Use apenas os dados fornecidos.
+Não invente números, causas ou conclusões.
+Não exponha dados pessoais ou sensíveis.
+Se houver informação insuficiente, indique a limitação.
+Use linguagem simples.
+
+=========================
+
+Atue como analista de dados ou analista de experiência do cliente.
+
+Sua tarefa é analisar feedbacks de clientes de um aplicativo bancário sobre serviço de pix para identificar a facilidade de uso.
+
+Contexto: A análise será usada por uma equipe de clientes para priorizar o uso de melhorias do serviço de pix.
+
+Dados disponíveis: A base contém data do comentário, canal do atendimento, texto do feedback, produto e nota de satisfação do cliente.
+
+Instruções de análise:
+
+Classifique os feedbacks por sentimento, urgência, canal, produto ou outro critério.
+Identifique os principais padrões, problemas, elogios e oportunidades.
+Aponte evidências nos dados fornecidos.
+Sugira ações práticas para a equipe de experiência do cliente.
+Formato da resposta: Entregue um resumo executivo  com até 15 linhas, em uma tabela com tema, sentimento, evidência e ação sugerida, além de uma lista final com as 5 prioridades importantes.
+
+Restrições:
+
+Use apenas os dados fornecidos.
+Não invente números, causas ou conclusões.
+Não exponha dados pessoais ou sensíveis.
+Informe limitações quando os dados não forem suficientes.
+Use linguagem simples.
